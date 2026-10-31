@@ -1,4 +1,4 @@
-# <div align='center'>PouCode</div>
+# <div align='center'>Really</div>
 
 <p align="center">
 
@@ -28,7 +28,7 @@ npm install github:Really/Baileys
 Or add it to your `package.json` manually:
 ```json
 "dependencies": {
-  "@poucode/baileys": "github:Really/Baileys"
+  "@Really/baileys": "github:Really/Baileys"
 }
 ```
 
