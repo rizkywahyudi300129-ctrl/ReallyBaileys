@@ -1,10 +1,10 @@
 {
-  "name": "@poucode/baileys",
+  "name": "@Really/baileys",
   "type": "module",
   "version": "1.0.0",
-  "description": "A WebSockets library for interacting with WhatsApp Web \u2014 PouCode fork of Baileys",
+  "description": "A WebSockets library for interacting with WhatsApp Web \u2014 Really fork of Baileys",
   "keywords": [
-    "poucode",
+    "Really",
     "baileys",
     "whatsapp",
     "whatsapp-api",
@@ -12,13 +12,13 @@
     "wa-bot",
     "whatsapp bot"
   ],
-  "homepage": "https://github.com/pou-code/Baileys",
+  "homepage": "https://github.com/Really/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pou-code/Baileys.git"
+    "url": "git+https://github.com/Really/Baileys.git"
   },
   "license": "MIT",
-  "author": "PouCode",
+  "author": "Really",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -140,9 +140,10 @@
     "node": ">=20.0.0"
   },
   "bugs": {
-    "url": "https://github.com/pou-code/Baileys/issues"
+    "url": "https://github.com/Really/Baileys/issues"
   },
   "contributors": [
     "WhiskeySockets (original Baileys authors)"
   ]
 }
+
